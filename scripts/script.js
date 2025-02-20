@@ -79,7 +79,12 @@ const projects = [
         name: "Budapest",
         images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
         description: "Projekt 5 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
-    }
+    },
+    {
+        name: "REF1",
+        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
+        description: "Projekt 5 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
+    },
 ];
 
 function openGallery(projectId) {
