@@ -83,7 +83,7 @@ const projects = [
     {
         name: "VGP Csarnok",
         images: ["pics/vgp.jpg", "pics/vgp1.jpg", "pics/vgp2.jpg"],
-        description: "Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés"
+        description: "Hely:/n Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál/n kivitelezés<br>"
     }, 
     {
         name: "REF2",
