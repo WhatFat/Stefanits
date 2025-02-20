@@ -161,6 +161,47 @@
         </div>
     </div>
 </section>
+<section class="projects" id="Referenciák">
+    <h1 class="heading">Referencia projektek</h1>
+    <div class="box-container">
+        <div class="project">
+            <img src="pics/paks.jpg" alt="Projekt 1" onclick="openGallery(6)">
+            <div class="project-name" onclick="openDescription(6)"><h2>REF1</h2></div>
+        </div>
+        <div class="project">
+            <img src="" alt="Projekt 2" onclick="openGallery(7)">
+            <div class="project-name" onclick="openDescription(7)"><h2>REF2</h2></div>
+        </div>
+        <div class="project">
+            <img src="pics/Hévíz.jpg" alt="Projekt 3" onclick="openGallery(8)">
+            <div class="project-name" onclick="openDescription(8)"><h2>REF3</h2></div>
+        </div>
+        <div class="project">
+            <img src="pics/VGPCsarnok.jpg" alt="Projekt 4" onclick="openGallery(9)">
+            <div class="project-name" onclick="openDescription(9)"><h2>REF4</h2></div>
+        </div>
+        <div class="project">
+            <img src="pics/hévíz port.jpg" alt="Projekt 5" onclick="openGallery(10)">
+            <div class="project-name" onclick="openDescription(10)"><h2>REF5</h2></div>
+        </div>
+    </div>
+
+    <div id="galleryModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 id="galleryTitle"></h2>
+            <div id="gallery" class="gallery"></div>
+        </div>
+    </div>
+
+    <div id="descriptionModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 id="descriptionTitle"></h2>
+            <div id="description" class="description"></div>
+        </div>
+    </div>
+</section>    
 <section class="employee" id="Munkatársaink">
     <div class="container">
         <h1 class="heading">Munkatársaink</h1>
