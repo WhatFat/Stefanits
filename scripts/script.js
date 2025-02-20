@@ -81,9 +81,9 @@ const projects = [
         description: "Projekt 5 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
     },
     {
-        name: "REF1",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
-        description: "Projekt 6 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
+        name: "VGP Csarnok",
+        images: ["pics/vpg1.jpg", "pics/vgp2.jpg", "/api/placeholder/200/150"],
+        description: "Hely: Győr Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés"
     }, 
     {
         name: "REF2",
