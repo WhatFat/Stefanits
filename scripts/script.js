@@ -118,3 +118,43 @@ window.onclick = function(event) {
         closeModal();
     }
 };
+
+document.getElementById('tovabbGomb').addEventListener('click', function(e) {
+    e.preventDefault();
+    
+    const existingAdditionalText = document.querySelector('.content .additional-text');
+    
+    if (!existingAdditionalText) {
+        const additionalText = document.createElement('p');
+        additionalText.className = 'additional-text';
+        additionalText.textContent = 'A gipszkarton előtétfalak utólagos hőszigetelést biztosítanak, míg a gipszkarton mennyezetekkel szabályozható a belmagasság, így csökkenthetők a fűtési és hűtési költségek. Tetőtér-beépítéssel új lakóterek hozhatók létre, szálas hőszigeteléssel és párazáró fóliával kiegészítve. Száraz vakolással esztétikus felületek készíthetők gyorsan és tisztán, akár festéshez vagy tapétázáshoz előkészítve. A kazettás álmennyezetek gyorsan szerelhetők, és könnyen hozzáférést biztosítanak a gépészeti és elektromos rendszerekhez, így irodákba, üzletekbe és otthonokba is ideálisak.';
+        
+        const lessButton = document.createElement('a');
+        lessButton.href = '#';
+        lessButton.className = 'btn';
+        lessButton.id = 'kevesebbGomb';
+        lessButton.textContent = '...Kevesebb';
+        
+        const contentDiv = this.closest('.content');
+        contentDiv.appendChild(additionalText);
+        contentDiv.appendChild(lessButton);
+        
+        this.style.display = 'none';
+        
+        lessButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            additionalText.remove();
+            lessButton.remove();
+            document.getElementById('tovabbGomb').style.display = 'inline-block'; // Visszaállítjuk a "Több..." gomb láthatóságát
+        });
+    } else {
+        existingAdditionalText.remove();
+        
+        const lessButton = document.querySelector('#kevesebbGomb');
+        if (lessButton) {
+            lessButton.remove();
+        }
+        
+        document.getElementById('tovabbGomb').style.display = 'inline-block';
+    }
+});
