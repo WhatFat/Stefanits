@@ -82,7 +82,7 @@ const projects = [
     },
     {
         name: "VGP Csarnok",
-        images: ["pics/vgp.jpg","pics/vgp1.jpg","pics/vgp2.jpg"],
+        images: ["pics/vgp1.jpg","pics/vgp2.jpg"],
         description: "Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés<br>"
     }, 
     {
