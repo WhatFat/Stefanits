@@ -97,7 +97,7 @@ const projects = [
     }, 
     {
         name: "Medicover",
-        images: ["pics/medicover1.jpg","pics/medicover2.jpg","pics/medicover3.jpg"],
+        images: ["pics/medicover1.jpg","pics/medicover2.jpg","pics/medicover3.jpg","pics/medicover4.jpg"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     }, 
 ];
