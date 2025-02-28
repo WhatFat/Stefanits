@@ -89,7 +89,12 @@ const projects = [
         name: "Richter",
         images: ["pics/richter1.jpg","pics/richter2.jpg","pics/richter3.jpg","pics/richter4.jpg","pics/richter5.jpg"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
-    },   
+    },  
+    {
+        name: "Átrium",
+        images: ["pics/atrium1.jpg","pics/atrium2.jpg","pics/atrium3.jpg"],
+        description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
+    }, 
 ];
 
 function openGallery(projectId) {
