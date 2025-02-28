@@ -104,6 +104,11 @@ const projects = [
         name: "Kekszgyár",
         images: ["pics/kekszgyar1.jpg","pics/kekszgyar2.jpg","pics/kekszgyar3.jpg","pics/kekszgyar4.jpg"],
         description: "Győri Kekszgyár volt épületének felújítása keretében a Széchenyi István Egyetem Tudományos és Innovációs Park kiépítése, valamint új Művészeti kar oktatási tereinek kialakítása<br>Hely: Győr<br>Munkanem: Szárazépítési munkák, Külső szerelt falak komplett kivitelezése<br>"
+    },
+    {
+        name: "Krisztina Pláza",
+        images: ["pics/krisztina1.jpg","pics/krisztina2.jpg","pics/krisztina3.jpg"],
+        description: "Projekt: Krisztina Pláza Irodaszint kialakítás<br>Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     }, 
 ];
 
