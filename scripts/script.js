@@ -66,9 +66,9 @@ const projects = [
         description: "Projekt:<br>Hely: Kecskemét<br>Munkanem:<br>"
     },
     {
-        name: "Futó3",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
-        description: "Projekt 3 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
+        name: "Paks Energy",
+        images: ["pics/paks1.jpg","pics/paks2.jpg","pics/paks3.jpg"],
+        description: "Projekt:<br>Hely: Kecskemét<br>Munkanem:<br>"
     },
     {
         name: "Futó4",
