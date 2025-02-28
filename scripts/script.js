@@ -56,9 +56,9 @@ function toggleContactDetails(employee) {
 
 const projects = [
     {
-        name: "Futó1",
-        images: ["pics/paks.jpg","pics/hévíz port.jpg","pics/slider1.jpg"],
-        description: "Projekt Neve és Címe: Paks 2 atomfejlesztés és robbantás Kivitelező: Strabag Oszt mennyibe fáj ez?: 10344 milliárd Ft."
+        name: "Újhartyán",
+        images: ["pics/ujhartyan1.jpg","pics/ujhartyan2.jpg","pics/ujhartyan3.jpg","pics/ujhartyan4.jpg","pics/ujhartyan5.jpg"],
+        description: "Projekt:<br>Hely: Újhartyán<br>Munkanem:<br>"
     },
     {
         name: "Futó2",
