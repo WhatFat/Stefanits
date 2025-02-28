@@ -61,7 +61,7 @@ const projects = [
         description: "Projekt Neve és Címe: Paks 2 atomfejlesztés és robbantás Kivitelező: Strabag Oszt mennyibe fáj ez?: 10344 milliárd Ft."
     },
     {
-        name: "Richter",
+        name: "Richter1",
         images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
         description: "A Projekt 2 egy izgalmas kezdeményezés. Íme néhány részlet róla."
     },
@@ -86,7 +86,7 @@ const projects = [
         description: "Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés<br>"
     }, 
     {
-        name: "Richter",
+        name: "Richter2",
         images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     },   
