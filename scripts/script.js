@@ -95,6 +95,11 @@ const projects = [
         images: ["pics/atrium1.jpg","pics/atrium2.jpg","pics/atrium3.jpg"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     }, 
+    {
+        name: "Medicover",
+        images: ["pics/medicover1.jpg","pics/medicover2.jpg","pics/medicover3.jpg"],
+        description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
+    }, 
 ];
 
 function openGallery(projectId) {
