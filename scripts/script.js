@@ -99,6 +99,11 @@ const projects = [
         name: "Medicover",
         images: ["pics/medicover1.jpg","pics/medicover2.jpg","pics/medicover3.jpg","pics/medicover4.jpg"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
+    },
+    {
+        name: "Kekszgyár",
+        images: ["pics/kekszgyar1.jpg","pics/kekszgyar2.jpg","pics/kekszgyar3.jpg","pics/kekszgyar4.jpg"],
+        description: "Győri Kekszgyár volt épületének felújítása keretében a Széchenyi István Egyetem Tudományos és Innovációs Park kiépítése, valamint új Művészeti kar oktatási tereinek kialakítása<br>Hely: Győr<br>Munkanem: Szárazépítési munkák, Külső szerelt falak komplett kivitelezése<br>"
     }, 
 ];
 
