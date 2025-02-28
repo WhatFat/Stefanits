@@ -86,8 +86,8 @@ const projects = [
         description: "Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés<br>"
     }, 
     {
-        name: "Richter2",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
+        name: "Richter",
+        images: ["pics/richter.jpg", "/api/placeholder/200/150", "/api/placeholder/200/150"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     },   
 ];
