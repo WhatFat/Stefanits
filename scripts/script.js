@@ -68,7 +68,7 @@ const projects = [
     {
         name: "Paks Energy",
         images: ["pics/paks1.jpg","pics/paks2.jpg","pics/paks3.jpg"],
-        description: "Projekt:<br>Hely: Kecskemét<br>Munkanem:<br>"
+        description: "Projekt:<br>Hely: Paks<br>Munkanem:<br>"
     },
     {
         name: "Futó4",
