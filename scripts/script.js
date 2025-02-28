@@ -61,9 +61,9 @@ const projects = [
         description: "Projekt:<br>Hely: Újhartyán<br>Munkanem:<br>"
     },
     {
-        name: "Futó2",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
-        description: "A Projekt 2 egy izgalmas kezdeményezés. Íme néhány részlet róla."
+        name: "Mercedes-Akcionáló Csarnok",
+        images: ["pics/mercedes1.jpg","pics/mercedes2.jpg","pics/mercedes3.jpg","pics/mercedes4.jpg"],
+        description: "Projekt:<br>Hely: Kecskemét<br>Munkanem:<br>"
     },
     {
         name: "Futó3",
