@@ -87,7 +87,7 @@ const projects = [
     }, 
     {
         name: "Richter",
-        images: ["pics/richter.jpg", "/api/placeholder/200/150", "/api/placeholder/200/150"],
+        images: ["pics/richter1.jpg", "pics/richter2.jpg", "pics/richter3.jpg", "pics/richter4.jpg", "pics/richter5.jpg"],
         description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     },   
 ];
