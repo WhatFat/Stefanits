@@ -117,7 +117,7 @@ const projects = [
     {
         name: "Intercity Hotel",
         images: ["pics/Intercity1.jpg","pics/Intercity2.jpg","pics/Intercity3.jpg","pics/Intercity4.jpg","pics/Intercity5.jpg","pics/Intercity6.jpg","pics/Intercity7.jpg"],
-        description: "Projekt: Intercity Hotel<br>Hely: Budapest<br>Munkanem: Szárazépítési munkák<br>"
+        description: "Projekt: Intercity Hotel épület 1-7. emeleteinek szárazépítési kivitelezési munkái<br>Hely: Budapest<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
     },     
 ];
 
