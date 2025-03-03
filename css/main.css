@@ -213,7 +213,7 @@ section {
     font-size: 3rem;
   }
 }
-@media (max-width: 710px) {
+@media (max-width: 1350px) {
   html {
     font-size: 50%;
   }
