@@ -171,11 +171,6 @@ section {
   border-radius: 20%;
 }
 @media (max-width: 1350px) {
-  section {
-    padding: 3rem 5%;
-  }
-}
-@media (max-width: 850px) {
   html {
     font-size: 55%;
   }
