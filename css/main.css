@@ -135,11 +135,15 @@ section {
   width: 3.5rem;
   line-height: 3.5rem;
   font-size: 2rem;
-  background: gray;
-  color: blue;
+  background: #1877f2;
+  color: #fff;
   cursor: pointer;
   text-align: center;
   border-radius: 20%;
+  transition: background-color 0.3s ease;
+}
+.header .icons #facebook-btn:hover {
+  background: #166fe5;
 }
 .header .icons #instagram-btn{
   height: 3.5rem;
