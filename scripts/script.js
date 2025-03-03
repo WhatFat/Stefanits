@@ -83,17 +83,17 @@ const projects = [
     {
         name: "VGP Csarnok",
         images: ["pics/vgp1.jpg","pics/vgp2.jpg"],
-        description: "Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés<br>"
+        description: "Projekt: <br>Hely: Győr<br>Munkanem: Fit-out munkák- Belsőépítészeti generál kivitelezés<br>"
     }, 
     {
         name: "Richter",
         images: ["pics/richter1.jpg","pics/richter2.jpg","pics/richter3.jpg","pics/richter4.jpg","pics/richter5.jpg"],
-        description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
+        description: "Projekt: <br>Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     },  
     {
         name: "Átrium",
         images: ["pics/atrium1.jpg","pics/atrium2.jpg","pics/atrium3.jpg"],
-        description: "Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
+        description: "Projekt: <br>Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     }, 
     {
         name: "Medicover",
@@ -103,7 +103,7 @@ const projects = [
     {
         name: "Kekszgyár",
         images: ["pics/kekszgyar1.jpg","pics/kekszgyar2.jpg","pics/kekszgyar3.jpg","pics/kekszgyar4.jpg"],
-        description: "Győri Kekszgyár volt épületének felújítása keretében a Széchenyi István Egyetem Tudományos és Innovációs Park kiépítése, valamint új Művészeti kar oktatási tereinek kialakítása<br>Hely: Győr<br>Munkanem: Szárazépítési munkák, Külső szerelt falak komplett kivitelezése<br>"
+        description: "Projekt: Győri Kekszgyár volt épületének felújítása keretében a Széchenyi István Egyetem Tudományos és Innovációs Park kiépítése, valamint új Művészeti kar oktatási tereinek kialakítása<br>Hely: Győr<br>Munkanem: Szárazépítési munkák, Külső szerelt falak komplett kivitelezése<br>"
     },
     {
         name: "Krisztina Pláza",
