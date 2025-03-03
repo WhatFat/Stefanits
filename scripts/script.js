@@ -110,6 +110,11 @@ const projects = [
         images: ["pics/krisztina1.jpg","pics/krisztina2.jpg","pics/krisztina3.jpg"],
         description: "Projekt: Krisztina Pláza Irodaszint kialakítás<br>Hely: Budapest<br>Munkanem: Szárazépítési és Felületképzési munkák<br>"
     }, 
+    {
+        name: "Intercity Hotel",
+        images: ["pics/Intercity1.jpg","pics/Intercity2.jpg","pics/Intercity3.jpg","pics/Intercity4.jpg","pics/Intercity5.jpg"],
+        description: "Projekt: Intercity Hotel<br>Hely: Budapest<br>Munkanem: Szárazépítési munkák<br>"
+    },     
 ];
 
 function openGallery(projectId) {
