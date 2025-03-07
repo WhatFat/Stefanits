@@ -511,8 +511,43 @@ section {
   font-size: 2rem;
   color: var(--white)
 }
-
-
+.career-background {
+    position: relative;
+    min-height: 50rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+}
+.career-background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+.career .content-box {
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 2rem;
+    border-radius: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.career .text-box {
+    font-size: 1.6rem;
+    color: var(--black);
+    line-height: 1.8;
+    padding: 1rem;
+}
+.career .text-box p {
+    margin-bottom: 1.5rem;
+}
 .footer .box-container{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
