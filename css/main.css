@@ -513,7 +513,7 @@ section {
 }
 .career-background {
     position: relative;
-    min-height: 90rem;
+    min-height: 80rem;
     display: flex;
     align-items: center;
     justify-content: center;
