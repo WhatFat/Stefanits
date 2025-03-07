@@ -511,6 +511,15 @@ section {
   font-size: 2rem;
   color: var(--white)
 }
+.career{
+  background: var(--black);
+}
+.career .heading{
+  color: var(--white);
+}
+
+
+
 .footer .box-container{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
