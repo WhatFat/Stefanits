@@ -511,13 +511,6 @@ section {
   font-size: 2rem;
   color: var(--white)
 }
-.career{
-  background: var(--black);
-}
-.career .heading{
-  color: var(--white);
-}
-
 
 
 .footer .box-container{
