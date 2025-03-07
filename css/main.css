@@ -513,7 +513,7 @@ section {
 }
 .career-background {
     position: relative;
-    min-height: 80rem;
+    min-height: 120rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -532,13 +532,12 @@ section {
 .career .content-box {
     position: relative;
     z-index: 1;
-    margin-left: 5rem;
     background: rgba(255, 255, 255, 0.9);
     padding: 2rem;
     border-radius: 1rem;
     max-width: 800px;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
 }
 .career .text-box {
     font-size: 1.6rem;
