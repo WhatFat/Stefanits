@@ -516,9 +516,10 @@ section {
     min-height: 80rem;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     background-size: cover;
     background-position: center;
+    padding-left: 2rem;
 }
 .career-background::before {
     content: '';
