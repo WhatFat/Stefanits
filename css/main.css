@@ -513,7 +513,7 @@ section {
 }
 .career-background {
     position: relative;
-    min-height: 120rem;
+    min-height: 90rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -536,8 +536,8 @@ section {
     padding: 2rem;
     border-radius: 1rem;
     max-width: 800px;
-    margin: 0 auto;
     text-align: left;
+    margin: 0;
 }
 .career .text-box {
     font-size: 1.6rem;
