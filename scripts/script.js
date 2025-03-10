@@ -71,7 +71,7 @@ const projects = [
     },
     {
         name: "Paks Energy",
-        images: ["pics/paks1.jpg","pics/paks2.jpg","pics/paks3.jpg","pics/paks4.jpg","pics/paks5.jpg","pics/paks6.jpg","pics/paks7.jpg"],
+        images: ["pics/paks1.jpg","pics/paks2.jpg","pics/paks3.jpg","pics/paks4.jpg","pics/paks5.jpg","pics/paks6.jpg"],
         description: "Projekt:<br>Hely: Paks<br>Munkanem:<br>"
     },
     {
