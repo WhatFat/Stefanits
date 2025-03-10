@@ -61,7 +61,7 @@ function toggleContactDetails(employee) {
 const projects = [
     {
         name: "Újhartyán",
-        images: ["pics/ujhartyan1.jpg","pics/ujhartyan2.jpg","pics/ujhartyan3.jpg","pics/ujhartyan4.jpg","pics/ujhartyan5.jpg"],
+        images: ["pics/ujhartyan1.jpg","pics/ujhartyan2.jpg","pics/ujhartyan3.jpg","pics/ujhartyan4.jpg","pics/ujhartyan5.jpg","pics/ujhartyan6.jpg"],
         description: "Projekt:<br>Hely: Újhartyán<br>Munkanem:<br>"
     },
     {
