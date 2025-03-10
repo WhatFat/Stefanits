@@ -80,8 +80,8 @@ const projects = [
         description: "Projekt 4 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
     },
     {
-        name: "Futó5",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
+        name: "Zalaegerszeg",
+        images: ["pics/zalaegerszeg1.jpg", "pics/zalaegerszeg2.jpg", "pics/zalaegerszeg3.jpg"],
         description: "Projekt 5 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
     },
     {
