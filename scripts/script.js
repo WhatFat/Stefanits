@@ -75,8 +75,8 @@ const projects = [
         description: "Projekt:<br>Hely: Paks<br>Munkanem:<br>"
     },
     {
-        name: "Futó4",
-        images: ["/api/placeholder/200/150", "/api/placeholder/200/150", "/api/placeholder/200/150"],
+        name: "Alcsútdoboz",
+        images: ["pics/alcsutdoboz1.jpg", "pics/alcsutdoboz2.jpg", "pics/alcsutdoboz3.jpg"],
         description: "Projekt 4 a legújabb vállalkozásunk. Ezek a fő célkitűzései és jellemzői."
     },
     {
