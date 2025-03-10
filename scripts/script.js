@@ -118,7 +118,12 @@ const projects = [
         name: "Intercity Hotel",
         images: ["pics/Intercity1.jpg","pics/Intercity2.jpg","pics/Intercity3.jpg","pics/Intercity4.jpg","pics/Intercity5.jpg","pics/Intercity6.jpg","pics/Intercity7.jpg"],
         description: "Projekt: Intercity Hotel épület 1-7. emeleteinek szárazépítési kivitelezési munkái<br>Hely: Budapest<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
-    },     
+    },    
+    {
+        name: "Tata Interspar",
+        images: ["pics/interspar1.jpg","pics/interspar2.jpg","pics/interspar3.jpg","pics/interspar4.jpg"],
+        description: "Projekt:<br>Hely: Tata<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
+    },        
 ];
 
 function openGallery(projectId) {
