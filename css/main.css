@@ -513,7 +513,7 @@ section {
 }
 .career-background {
     position: relative;
-    min-height: 80rem;
+    min-height: 60rem;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -547,6 +547,7 @@ section {
     padding: 1rem;
 }
 .career .text-box p {
+    border-style: outset;
     margin-bottom: 1.5rem;
 }
 .footer .box-container{
