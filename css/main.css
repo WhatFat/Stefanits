@@ -566,6 +566,7 @@ section {
 }
 .career .job-button:hover {
     background-color: #3757a0;
+    color: white;
 }
 .footer .box-container{
   display: grid;
