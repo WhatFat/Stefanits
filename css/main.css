@@ -555,17 +555,17 @@ section {
     margin: 1.5rem 0;
 }
 .career .job-button {
-    background-color: #007bff;
+    background-color: #3d405f;
     color: white;
     border: none;
     padding: 0.8rem 1.5rem;
-    font-size: 1.2rem;
+    font-size: 2rem;
     border-radius: 0.5rem;
     cursor: pointer;
     transition: background 0.3s ease;
 }
 .career .job-button:hover {
-    background-color: #0056b3;
+    background-color: #3757a0;
 }
 .footer .box-container{
   display: grid;
