@@ -126,7 +126,7 @@ const projects = [
     },  
     {
         name: "Sukoró KKS",
-        images: ["pics/sukoro1.jpg","pics/sukoro2.jpg","pics/sukoro3.jpg","pics/sukoro4.jpg"],
+        images: ["pics/sukoro1.jpg","pics/sukoro2.jpg","pics/sukoro3.jpg","pics/sukoro4.jpg","pics/sukoro5.jpg","pics/sukoro6.jpg"],
         description: "Projekt: Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia tervezése és kivitelezése<br>Hely: Sukoró<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
     },
 ];
