@@ -541,13 +541,13 @@ section {
     margin: 0;
 }
 .career .text-box {
+    border-style: outset;
     font-size: 1.6rem;
     color: var(--black);
     line-height: 1.8;
     padding: 1rem;
 }
 .career .text-box p {
-    border-style: outset;
     margin-bottom: 1.5rem;
 }
 .footer .box-container{
