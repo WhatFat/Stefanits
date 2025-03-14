@@ -553,6 +553,7 @@ section {
     display: flex;
     justify-content: space-around;
     margin: 1.5rem 0;
+    position: relative;
 }
 .career .job-button {
     background-color: #3d405f;
@@ -563,6 +564,7 @@ section {
     border-radius: 0.5rem;
     cursor: pointer;
     transition: background 0.3s ease;
+    position: relative;
 }
 .career .job-button:hover {
     background-color: #3757a0;
@@ -572,6 +574,20 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 2rem;
+}
+.career .job-disabled {
+    position: relative;
+    pointer-events: none; /* Kikapcsolja a kattinthatóságot */
+    opacity: 0.6; 
+}
+.career .job-disabled::after {
+    content: "✖";
+    font-size: 3rem;
+    color: red;
+    position: absolute;
+    top: -10px;
+    right: -15px;
+    font-weight: bold;
 }
 .footer .box-container .partners{
   align-items: center;
