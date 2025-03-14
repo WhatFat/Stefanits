@@ -549,6 +549,24 @@ section {
 .career .text-box p {
     margin-bottom: 1.5rem;
 }
+.career .button-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 1.5rem 0;
+}
+.career .job-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.career .job-button:hover {
+    background-color: #0056b3;
+}
 .footer .box-container{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
