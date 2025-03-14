@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.getElementById("Logo").addEventListener("click", function() {
-        window.location.href = "file:///C:/Users/herak/OneDrive/Dokumentumok/Project/index.html";
+        window.location.href = "https://wwww.stefanitskft.hu";
     });
 
         document.getElementById("facebook-btn").addEventListener("click", function() {
