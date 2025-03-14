@@ -123,7 +123,12 @@ const projects = [
         name: "Tata Interspar",
         images: ["pics/interspar1.jpg","pics/interspar2.jpg","pics/interspar3.jpg","pics/interspar4.jpg"],
         description: "Projekt:<br>Hely: Tata<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
-    },        
+    },  
+    {
+        name: "Sukoró KKS",
+        images: ["pics/sukoro1.jpg","pics/sukoro2.jpg","pics/sukoro3.jpg","pics/sukoro4.jpg"],
+        description: "Projekt: Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia tervezése és kivitelezése<br>Hely: Sukoró<br>Munkanem: Szárazépítészeti kivitelezési munkák, beleértve gipszkarton válaszfalak, álmennyezetek és egyéb belsőépítészeti szerkezetek kialakítását.<br>"
+    },
 ];
 
 function openGallery(projectId) {
